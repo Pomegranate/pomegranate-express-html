@@ -1,6 +1,6 @@
 {
   "name": "pomegranate-express-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds a plain html renderer for the Pomegranate Express plugin",
   "main": "index.js",
   "scripts": {

@@ -1,0 +1,25 @@
+{
+  "name": "pomegranate-express-html",
+  "version": "0.0.0",
+  "description": "Adds a plain html renderer for the Pomegranate Express plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Pomegranate",
+    "Plugin",
+    "Express",
+    "Html"
+  ],
+  "author": "Jim <monstertke@paperelectron.com> (http://paperelectron.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomegranate/pomegranate-express-html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pomegranate/pomegranate-express-html/issues"
+  },
+  "homepage": "https://github.com/Pomegranate/pomegranate-express-html#readme"
+}

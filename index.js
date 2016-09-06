@@ -36,7 +36,7 @@ exports.plugin = {
     var viewDirectory = this.options.workDir;
     var viewEngine = {
       "View Engine": function(Express){
-        Express.engine('ejs', ejs);
+        Express.engine('html', ejs);
         Express.set('views', viewDirectory)
         Express.set('view engine', 'html')
       }
